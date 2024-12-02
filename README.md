@@ -1,5 +1,5 @@
 <div align="center">
-<h1>⚓👩‍✈️ This is Pauline speaking 🚢⚓</h1>
+<h1>⚓📻 This is Pauline speaking 🚢⚓</h1>
 <h3>Computer engineering student at TELECOM Nancy</h3>
 </div>
 
