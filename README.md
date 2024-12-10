@@ -23,10 +23,6 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
 
-## FAQ
-### Do you hate JavaScript ?
-Yes.
-
 <!--
 **LeBoufty/LeBoufty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
