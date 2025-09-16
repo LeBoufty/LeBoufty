@@ -3,7 +3,7 @@
   
 ## Welcome to my palace !
 
-My name is Pauline, I am a final-year student at [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/) in the IL (Software Engineering) specialization and currently working as an intern at [NanoAPI](https://nanoapi.io/).
+My name is Pauline and I studied at [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/) in the IL (Software Engineering) specialization.
 
 <img src="affinities.png">
 </div>
